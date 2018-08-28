@@ -8,5 +8,9 @@ are you a sb!
 studing hard
 添加了一行，但是呢，还得重新跟新代码
 我这个呢，也不想上传上去
+<<<<<<< Updated ugitpstream
+哪儿
+>>>>>>> Stashed changes
+=======
 哪儿
 >>>>>>> Stashed changes
