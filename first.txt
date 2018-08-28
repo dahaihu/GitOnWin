@@ -1,4 +1,12 @@
 who is hushichang?
 Git is a distributed version control system.
 wo rile goule!
+<<<<<<< Updated upstream
 are you a sb!
+=======
+# 这个地方就让我很无语了
+studing hard
+添加了一行，但是呢，还得重新跟新代码
+我这个呢，也不想上传上去
+哪儿
+>>>>>>> Stashed changes
