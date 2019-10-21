@@ -55,7 +55,7 @@ SQLAlchemy==1.2.4
 urllib3==1.22
 vine==1.1.4
 weixin==0.1
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 gunicorn==19.9.0
 grpcio==1.14.1
 protobuf==3.6.0
